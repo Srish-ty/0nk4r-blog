@@ -1,2 +1,3 @@
-# 0nk4r.github.io
-# 0nk4r.github.io
+# Blog link:
+
+ 0nk4r.github.io

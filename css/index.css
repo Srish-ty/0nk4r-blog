@@ -58,7 +58,7 @@ html {
 body {
   user-select: none;
   height: auto;
-  overflow-x: hidden;
+  overflow-x: scroll;
   width: 100%;
   background: #171717;
 }
